@@ -1,7 +1,6 @@
 # Servidor em Java, Bukkit API
 
-╔═══━━━─── • ───━━━═══╗
-
+━━━━━━━━━━━━━━━❰✭❱━━━━━━━━━━━━━━━━
 
 Linguagens que estão sendo usadas:
 
